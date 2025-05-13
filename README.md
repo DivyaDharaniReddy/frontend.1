@@ -1,1 +1,2 @@
-# frontend.1
+#Property Management System 
+The primary goal is to develop a comprehensive Property Management System that streamlines the operations of property managers, landlords, and tenants. This system aims to automate tasks such as property listings, tenant management, lease administration, rent collection, maintenance scheduling, and financial reporting, thereby enhancing efficiency and user satisfaction
